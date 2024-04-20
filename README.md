@@ -1,2 +1,2 @@
 # hello-world
-initial collaboration for new ideas: Assignment 0-2
+initial collaboration for new ideas: GIS415 Assignment 0-2
